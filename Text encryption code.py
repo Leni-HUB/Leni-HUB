@@ -8,7 +8,7 @@ Unterstützte Verschlüsselungsmethoden:
 - Vigenère-Verschlüsselung: Polyalphabetische Substitution mit Schlüsselwort
 - Rail Fence: Transpositionsverschlüsselung mit variabler Schienenzahl
 
-Author: [Ihr Name]
+Author: [Leni]
 Version: 1.0
 """
 
