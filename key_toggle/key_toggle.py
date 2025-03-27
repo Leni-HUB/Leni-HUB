@@ -1,3 +1,7 @@
+"""
+Author: [Leni]
+Version: 1.0
+"""
 import keyboard
 import threading
 import time
