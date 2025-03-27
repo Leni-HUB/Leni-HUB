@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Leni
 - 👀 I’m interested in coding and Politics
-- 🌱 I’m currently learning python
-- 📫 How to reach me discord
+- 🌱 I’m currently learning Python and jason
+- 📫 How to reach me discord 
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: Trans
+- ⚡ Fun fact: Trans German 
 
 
 <!---
